@@ -22,4 +22,6 @@ Basta usar dá permissão de execução com `chmod +x temu` e executar com `./te
 <img style='width :50%' src='/sshot/s7.jpg'><br>
 <img style='width :50%' src='/sshot/s8.jpg'><br>
 
+## Quer instalar ?
+Use este [script instalador de qualquer coisa](https://github.com/L0RD-X/Iinstaller)
 ### Podem modificar como quiserem pra melhorar
