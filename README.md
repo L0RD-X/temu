@@ -11,7 +11,8 @@ Pode instalar o QEMU com o comando `apt install qemu-system` ou [acesse](https:/
 
 # Como Usar
 
-É tão intuitivo que vou lhes deixar com os prints <br>
+Basta usar dá permissão de execução com `chmod +x temu` e executar com `./temu` se tiver na mesma pasta. <br>De resto tão fácil que vou lhes deixar com os prints <br>
+
 <img style='width :50%' src='/sshot/s1.jpg'><br>
 <img style='width :50%' src='/sshot/s2.jpg'><br>
 <img style='width :50%' src='/sshot/s3.jpg'><br>
